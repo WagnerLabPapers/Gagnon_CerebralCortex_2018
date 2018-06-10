@@ -1,0 +1,14 @@
+index	block	cond	term	ForS	condID	wordID	wordName	imgID	imgName	imgFile	imgType	subType
+1	1	F	F	FOIL	F2	W9	wwRATTLE	FOIL	FOIL	FOIL	FOIL	FOIL
+2	1	TO	TO	outdoor	WO_2	W1	wwTHORN	Scene1	alley	outdoor_alley.jpg	outdoor	none
+3	1	TI	TI	indoor	WI4	W7	wwCARRIAGE	Indoor2	utility_room	indoor_utility_room.jpg	indoor	none
+4	1	TO	TO	outdoor	WO_1	W11	wwLOBSTER	Scene5	lake	outdoor_lake.jpg	outdoor	none
+5	1	TI	TI	indoor	WI3	W3	wwPURSE	Indoor3	poolroom	indoor_poolroom.jpg	indoor	none
+6	1	TI	TI	indoor	WI1	W8	wwSKILLET	Indoor5	staircase	indoor_staircase.jpg	indoor	none
+7	1	F	F	FOIL	F3	W6	wwBADGE	FOIL	FOIL	FOIL	FOIL	FOIL
+8	1	TO	TO	outdoor	WO_5	W13	wwKETTLE	Scene3	rainforest	outdoor_rainforest.jpg	outdoor	none
+9	1	TO	TO	outdoor	WO_4	W10	wwPHONE	Scene4	residential_neighborhood	outdoor_residential_neighborhood.jpg	outdoor	none
+10	1	F	F	FOIL	F1	W12	wwMARBLE	FOIL	FOIL	FOIL	FOIL	FOIL
+11	1	TI	TI	indoor	WI5	W5	wwTENNIS	Indoor4	organ_loft	indoor_organ_loft.jpg	indoor	none
+12	1	TI	TI	indoor	WI2	W2	wwKING	Indoor1	berth	indoor_berth.jpg	indoor	none
+13	1	TO	TO	outdoor	WO_3	W4	wwABACUS	Scene2	apartment_building	outdoor_apartment_building.jpg	outdoor	none
