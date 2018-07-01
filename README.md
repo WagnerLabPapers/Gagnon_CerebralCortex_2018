@@ -13,6 +13,11 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - FSL
 - Freesurfer
 - ANTS
+- scikit-learn
+- nibabel
+- nitime
+
+- See files in `environment` for other packages
 
 ## Directory overview
 
