@@ -1,5 +1,0 @@
-HIPPOVOL:
-https://github.com/garikoitz/hippovol
-
-geom3d:
-https://www.mathworks.com/matlabcentral/fileexchange/24484-geom3d
