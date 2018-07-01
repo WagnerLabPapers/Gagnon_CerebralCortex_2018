@@ -17,9 +17,8 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 ## Directory overview
 
 - Main code to run behavioral task: `ap.m` and assorted files in `scripts`
-- Picture stimuli for behavioral task: `stimuli`
 - Behavioral data: `data`
-- MRI data processing: `SNI/scripts`
+- MRI data processing: `SNI` (corresponds to `/Volumes/group/awagner/sgagnon/AP`)
 - Statistics: `stats` (All statistics: `AP_results.Rmd`)
 
 ## MRI data/results
