@@ -1,7 +1,7 @@
 function setupEmail
 % Define these variables appropriately:
-mail = 'stanford.psych.experiments@gmail.com'; %Your GMail email address
-password = '$1dlpf$1'; %Your GMail password
+mail = ''; %Your GMail email address
+password = ''; %Your GMail password
 
 % Then this code will set up the preferences properly:
 setpref('Internet','E_mail',mail);
