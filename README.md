@@ -35,13 +35,9 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - ROI parameter estimates: `SNI/analysis/ap_memory_raw/group/roi`
 	- note: see Archive for trial-wise ROI data
 
-[NeuroVault LINKs]
+Statistical maps (Neurovault): https://neurovault.org/collections/3173/
 
-[ARCHIVE LINK]
-
-## Notes
-
-
+[*TBD: ARCHIVE LINK]
 
 
 ## Code references
