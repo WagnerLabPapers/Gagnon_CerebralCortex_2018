@@ -1,0 +1,5 @@
+Steph's edits:
+
+- use fsl to flip dimensions of fieldmaps to line up with epis if necessary
+- force epiphasedim to be 1 in preprocessfmri_CNI
+- force acq to be [64,64] in preprocessfmri

@@ -7,6 +7,7 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - https://github.com/sgagnon/lyman (adapted from https://github.com/mwaskom/lyman)
 - https://github.com/sgagnon/lyman-tools
 - https://github.com/sgagnon/felix
+- https://github.com/sgagnon/fmri_classification
 - https://github.com/mwaskom/seaborn
 - https://github.com/mwaskom/moss
 
@@ -16,6 +17,7 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - scikit-learn
 - nibabel
 - nitime
+- nipype
 
 - See files in `environment` for other packages
 
@@ -36,6 +38,10 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 [NeuroVault LINKs]
 
 [ARCHIVE LINK]
+
+## Notes
+
+
 
 
 ## Code references
@@ -129,5 +135,9 @@ This included lists of words (nouns) used as stimuli
 #### Questionnaire code from Amitai Shenhav
 
 #### Trigger code from the CNI and Kelly Hennigan
+
+#### `labels_intersect_jim.sh`
+Code from Jim Porter (University of Minnesota) from the Freesurfer message board
+https://mail.nmr.mgh.harvard.edu/pipermail//freesurfer/2009-September/011846.html
 
 #### Inspiration from https://github.com/mwaskom/Waskom_CerebCortex_2017

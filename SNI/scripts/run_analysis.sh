@@ -33,23 +33,10 @@ export LYMAN_DIR
 ##############################################
 # Register timeseries for MVPA analyses
 ##############################################
-# 
-# sub_list=subjects_new.txt
-# sub_list=ap166
-# exp=mvpa
-# 
-# run_fmri.py -s $sub_list -e $exp -w preproc reg -timeseries -regspace epi -unsmoothed -n 20
 
-
-# sub_list=subjects_new.txt
-# sub_list=subjects_rerun.txt
+# sub_list=subjects.txt
 # exp=mvpa_raw
 # run_fmri.py -s $sub_list -e $exp -w preproc reg -timeseries -regspace epi -unsmoothed -n 20
-
-# sub_list=ap173
-# exp=mvpa_raw
-# run_fmri.py -s $sub_list -e $exp -w preproc reg -timeseries -regspace epi -unsmoothed -n 20
-
 
 
 ##############################################
@@ -418,7 +405,7 @@ export LYMAN_DIR
 
 ##############################################
 # Extract mean copes
-# Then run notebooks/extract_rois.ipynb to get plots for each
+# Then run notebooks/extract_rois.ipynb to get plots for each to visualize
 ##############################################
 # cd $init_path/awagner/sgagnon/scripts/lyman-tools/roi
 # python extract_copes.py -exp ap_memory_raw -masks anat_masks.csv -group_info subjects_groups.csv
