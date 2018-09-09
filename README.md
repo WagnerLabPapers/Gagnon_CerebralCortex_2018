@@ -19,7 +19,7 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - nitime
 - nipype
 
-- See files in `environment` for other packages (note that these versions of software may have security vulnerabilties)
+- See files in `environment` for other packages (note that these versions of software may have security vulnerabilties; n.b., some analyses may have been run with earlier versions of these packages)
 
 ## Directory overview
 
