@@ -3,14 +3,13 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 
 ## Dependencies (incomplete list):
 
-- Python 2.7 (Anaconda 2.3 / 2.4)
+- Python 2.7 (Anaconda distribution ~2.3 / 2.4)
 - https://github.com/sgagnon/lyman (adapted from https://github.com/mwaskom/lyman)
 - https://github.com/sgagnon/lyman-tools
 - https://github.com/sgagnon/felix
 - https://github.com/sgagnon/fmri_classification
 - https://github.com/mwaskom/seaborn
 - https://github.com/mwaskom/moss
-
 - FSL
 - Freesurfer
 - ANTS
@@ -18,8 +17,7 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - nibabel
 - nitime
 - nipype
-
-- See files in `environment` for other packages (note that these versions of software may have security vulnerabilties; n.b., some analyses may have been run with earlier versions of these packages)
+- See files in `environment` for other packages (n.b., some of these package versions may have security vulnerabilties (e.g., `flask`, `jupyter notebook`, `pycrypto`, `rope`); n.b., some analyses may have been run with earlier versions of these packages and not all packages are required for analyses)
 
 ## Directory overview
 
