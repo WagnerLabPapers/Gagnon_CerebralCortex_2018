@@ -17,7 +17,7 @@ Analysis repository for Gagnon et al. (2018) Cerebral Cortex
 - nibabel
 - nitime
 - nipype
-- See files in `environment` for other packages (n.b., some of these package versions may have security vulnerabilties (e.g., `flask`, `jupyter notebook`, `pycrypto`, `rope`); n.b., some analyses may have been run with earlier versions of these packages and not all packages are required for analyses)
+- See files in `environment` for other packages (n.b., some of these package versions may have security vulnerabilities (e.g., `flask`, `jupyter notebook`, `pycrypto`, `rope`); n.b., some analyses may have been run with earlier versions of these packages and not all packages are required for analyses)
 
 ## Directory overview
 
