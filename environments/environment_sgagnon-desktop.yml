@@ -22,7 +22,7 @@ dependencies:
 - !!python/unicode
   'cubes=0.10.2=py27_4'
 - !!python/unicode
-  'flask=0.10.1=py27_1'
+  'flask=0.10.1=py27_1' #note this may have a security vulnerability
 - !!python/unicode
   'grin=1.2.1=py27_1'
 - !!python/unicode
@@ -46,13 +46,13 @@ dependencies:
 - !!python/unicode
   'pycosat=0.6.1=py27_0'
 - !!python/unicode
-  'pycrypto=2.6.1=py27_0'
+  'pycrypto=2.6.1=py27_0' #note this may have a security vulnerability
 - !!python/unicode
   'pyface=4.4.0=py27_0'
 - !!python/unicode
   'redis=2.6.9=0'
 - !!python/unicode
-  'rope=0.9.4=py27_1'
+  'rope=0.9.4=py27_1' #note this may have a security vulnerability
 - !!python/unicode
   'ssl_match_hostname=3.4.0.2=py27_0'
 - !!python/unicode
